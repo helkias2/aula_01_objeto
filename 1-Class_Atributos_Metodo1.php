@@ -1,7 +1,4 @@
 <?php
-//Entendemos que um abistracao de aluma coisa pode se levada para orientacao objeto 
-//Exemplo abstracao de Pessoa
-// 
 class Pessoa{ 
 
     public function Falar(){
